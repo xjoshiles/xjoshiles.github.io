@@ -31,7 +31,7 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
+	border-bottom: 2px solid #0568cf;
 	background: #ededed;
 }
 
@@ -95,7 +95,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #cf8a05;
+	color: #0568cf;
 }
 
 
@@ -126,7 +126,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #cf8a05;
+	color: #0568cf;
 }
 
 .sectionContent h2 {
@@ -153,6 +153,17 @@ section:last-child {
 
 .keySkills ul li {
 	margin-bottom: 3px;
+}
+
+.qualifications {
+	margin-left: 20px;
+	list-style: circle;
+}
+
+.modules {
+	margin-top: 3px;
+	margin-left: 20px;
+	list-style-type: square;
 }
 
 @media all and (min-width: 602px) and (max-width: 800px) {
